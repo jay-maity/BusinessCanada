@@ -1,0 +1,350 @@
+[
+  {
+    "BusinessType": "Financial",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3980.993323802948
+  },
+  {
+    "BusinessType": "Financial",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 2529.9667921066284
+  },
+  {
+    "BusinessType": "Dealer",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3259.7817902565002
+  },
+  {
+    "BusinessType": "Dealer",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1704.6160526275635
+  },
+  {
+    "BusinessType": "Vending Machine",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3018.028872489929
+  },
+  {
+    "BusinessType": "Vending Machine",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1567.0021433830261
+  },
+  {
+    "BusinessType": "Animal Services",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 4037.164282798767
+  },
+  {
+    "BusinessType": "Animal Services",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1502.3320322036743
+  },
+  {
+    "BusinessType": "Contractors",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3430.804020881653
+  },
+  {
+    "BusinessType": "Contractors",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1979.777376651764
+  },
+  {
+    "BusinessType": "Beauty",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2704.2107977867126
+  },
+  {
+    "BusinessType": "Beauty",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1253.1840047836304
+  },
+  {
+    "BusinessType": "Other",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2199.3449211120605
+  },
+  {
+    "BusinessType": "Other",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1268.8755626678467
+  },
+  {
+    "BusinessType": "Art Industry",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 1932.195240020752
+  },
+  {
+    "BusinessType": "Art Industry",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 481.16828870773315
+  },
+  {
+    "BusinessType": "Convention Centre",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2590.5108518600464
+  },
+  {
+    "BusinessType": "Convention Centre",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1139.4840359687805
+  },
+  {
+    "BusinessType": "Auto Industry",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3399.2139978408813
+  },
+  {
+    "BusinessType": "Auto Industry",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1783.571030139923
+  },
+  {
+    "BusinessType": "Apartment",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3908.9476585388184
+  },
+  {
+    "BusinessType": "Apartment",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 2457.921112060547
+  },
+  {
+    "BusinessType": "Health",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3747.3245668411255
+  },
+  {
+    "BusinessType": "Health",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 2296.2979879379272
+  },
+  {
+    "BusinessType": "Personal Service",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3749.0152020454407
+  },
+  {
+    "BusinessType": "Personal Service",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1635.5251259803772
+  },
+  {
+    "BusinessType": "Food",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2443.8397932052612
+  },
+  {
+    "BusinessType": "Food",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1130.2202196121216
+  },
+  {
+    "BusinessType": "Financial",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3092.8055148124695
+  },
+  {
+    "BusinessType": "Financial",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1641.7788014411926
+  },
+  {
+    "BusinessType": "Retail",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3018.29740190506
+  },
+  {
+    "BusinessType": "Retail",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1371.3172841072083
+  },
+  {
+    "BusinessType": "Contractor",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 4283.7543778419495
+  },
+  {
+    "BusinessType": "Contractor",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1662.8842763900757
+  },
+  {
+    "BusinessType": "Liquor",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2343.6798429489136
+  },
+  {
+    "BusinessType": "Liquor",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 892.6526679992676
+  },
+  {
+    "BusinessType": "Household",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3805.3233785629272
+  },
+  {
+    "BusinessType": "Household",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1741.5492053031921
+  },
+  {
+    "BusinessType": "Education",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2973.434063434601
+  },
+  {
+    "BusinessType": "Education",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1351.473687171936
+  },
+  {
+    "BusinessType": "Fireworks",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 942.4092817306519
+  },
+  {
+    "BusinessType": "Fireworks",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1458.5261988639832
+  },
+  {
+    "BusinessType": "Service",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 4538.184714317322
+  },
+  {
+    "BusinessType": "Service",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1852.557559967041
+  },
+  {
+    "BusinessType": "Rental",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2184.9916439056396
+  },
+  {
+    "BusinessType": "Rental",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 733.9647445678711
+  },
+  {
+    "BusinessType": "Recycling",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2543.4131898880005
+  },
+  {
+    "BusinessType": "Recycling",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1092.3863639831543
+  },
+  {
+    "BusinessType": "Service Industry",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2015.0183568000793
+  },
+  {
+    "BusinessType": "Service Industry",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 788.4092345237732
+  },
+  {
+    "BusinessType": "Operator",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2926.60795211792
+  },
+  {
+    "BusinessType": "Operator",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1603.5636978149414
+  },
+  {
+    "BusinessType": "Entertainment",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 3293.777003288269
+  },
+  {
+    "BusinessType": "Entertainment",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1146.5212244987488
+  },
+  {
+    "BusinessType": "Jewellery",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2574.1861457824707
+  },
+  {
+    "BusinessType": "Jewellery",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1091.2142300605774
+  },
+  {
+    "BusinessType": "Manufacturing",
+    "City": "Tor",
+    "Year": 2017,
+    "Stability": 2599.132606983185
+  },
+  {
+    "BusinessType": "Manufacturing",
+    "City": "Van",
+    "Year": 2017,
+    "Stability": 1148.1057929992676
+  }
+]

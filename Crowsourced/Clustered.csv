@@ -1,0 +1,904 @@
+Veterinarian *Historic*,13,Animal Services
+PET SHOP,13,Animal Services
+Pet Store,13,Animal Services
+Animal Services Animal Daycare,6,Animal Services
+Animal Services Animal Walking,6,Animal Services
+Animal Services Animal Control,6,Animal Services
+Animal Services Other,6,Animal Services
+Animal Services Animal Washing,6,Animal Services
+Animal Services Animal Training,6,Animal Services
+Animal Services Animal Grooming,6,Animal Services
+Animal Services Kennel,6,Animal Services
+Animal Services Animal Sitting,6,Animal Services
+Animal Services Animal Transportation,6,Animal Services
+Animal Clinic/Hospital,6,Animal Services
+Animal Services Veterinarian,6,Animal Services
+Duplex Strata,13,Apartment
+SECOND HAND SALVAGE YARD,13,Apartment
+Office Interior Design/Decorator,13,Apartment
+Duplex,13,Apartment
+Pre-1956 Dwelling One Family,26,Apartment
+Property Management *Historic*,9,Apartment
+Office Real Estate Development/Investment,9,Apartment
+Lumber Yard,9,Apartment
+Arcade,9,Apartment
+Non-profit Housing,13,Apartment
+Roofer Other,13,Apartment
+SWIMMING POOL,13,Apartment
+Residential/Commercial,13,Apartment
+Apartment House,21,Apartment
+PUBLIC GARAGE,21,Apartment
+Apartment House Strata,21,Apartment
+Apartment House Retirement Residence,21,Apartment
+BATH HOUSE,21,Apartment
+PUBLIC HALL,21,Apartment
+Apartment House-99 Year Lease,21,Apartment
+BOWLING HOUSE,21,Apartment
+Public House *Historic*,21,Apartment
+Rooming House,21,Apartment
+Office Notary Public,21,Apartment
+Multiple Dwelling,26,Apartment
+Pre-1956 Dwelling Multiple,26,Apartment
+Pre-1956 Dwelling Duplex,26,Apartment
+One-Family Dwelling,26,Apartment
+Studio Portrait/Photography Studio,0,Art Industry
+Artist Live/Work Studio,0,Art Industry
+Studio Performing Arts Studio,0,Art Industry
+Studio,0,Art Industry
+Studio Other,0,Art Industry
+Artist Live/Work Studio Other,0,Art Industry
+Studio Art Gallery,0,Art Industry
+Studio Artist Studio,0,Art Industry
+Studio Recording Studio,0,Art Industry
+Office Graphic Artist,13,Art Industry
+Production Company Video Production,13,Art Industry
+Artist,13,Art Industry
+Artist Graphics,13,Art Industry
+Artist Cartoon/Animation,13,Art Industry
+Electrical-Temporary (Filming) Administration,13,Art Industry
+Electrical-Temporary (Filming) Other,13,Art Industry
+Electrical-Temporary (Filming),13,Art Industry
+Electrical-Temporary (Filming) Music Production,13,Art Industry
+Production Company Music Production,13,Art Industry
+Artist Live/Work Studio Interpreter/Translator,9,Art Industry
+Auctioneer,9,Art Industry
+AUTO SERVICE STATION,1,Auto Industry
+Auto Wholesaler,1,Auto Industry
+Auto Parking Lot/Parkade,1,Auto Industry
+Auto Dealer Other,1,Auto Industry
+Auto Painter & Body Shop,1,Auto Industry
+Auto Detailing,1,Auto Industry
+Transient Trader/Peddler-W Other,1,Auto Industry
+Auto Wrecker,1,Auto Industry
+Auto Repairs,1,Auto Industry
+Transient Trader/Peddler-A,1,Auto Industry
+Transient Trader/Peddler-W,1,Auto Industry
+TRANSIENT TRADER,1,Auto Industry
+Auto Washer,1,Auto Industry
+Auto Dealer,1,Auto Industry
+Peddler,1,Auto Industry
+MOTORIZED REFRESHMENT VEHICLE OWNER,9,Auto Industry
+Gasoline Station Full-Serve Station,9,Auto Industry
+LIMOUSINE OWNER,9,Auto Industry
+MOTOR VEHICLE RACING,9,Auto Industry
+HORSE DRAWN VEHICLE OWNER,9,Auto Industry
+Gasoline Station Card Lock Station,9,Auto Industry
+Gasoline Station Marine Station,9,Auto Industry
+NON-MOTORIZED REFRESHMENT VEHICLE OWNER,9,Auto Industry
+TOW TRUCK OWNER,9,Auto Industry
+Gasoline Station Self-Serve Station,9,Auto Industry
+DRIVE-SELF RENTAL OWNER,9,Auto Industry
+Gasoline Station Split-Island Station,9,Auto Industry
+HAWKER/PEDLAR WITH MOTOR VEHICLE,9,Auto Industry
+TAXICAB BROKER,13,Auto Industry
+PRIVATE TRANSPORTATION COMPANY,13,Auto Industry
+Lounge 'A' *Historic* Motor Vessel,13,Auto Industry
+Marine Services Stevedore,13,Auto Industry
+Boat Charter Services,13,Auto Industry
+Office Ship's Chandler,13,Auto Industry
+Marine Services Marine Towing,13,Auto Industry
+Marine Services Marine Transport,13,Auto Industry
+LIMOUSINE SERVICE COMPANY,13,Auto Industry
+Marine Services Marine Maintenance,13,Auto Industry
+Marine Services Cruise Ship Supplies,13,Auto Industry
+Beauty Services Hair Removal,3,Beauty
+Health and Beauty Beauty Salon,3,Beauty
+Beauty Services Nail Technician *Historic*,3,Beauty
+Beauty Services Electrolysis *Historic*,3,Beauty
+Beauty Services Skin Care *Historic*,3,Beauty
+Beauty Services Relaxation Machine *Historic*,3,Beauty
+Beauty Services Manicurist *Historic*,3,Beauty
+Beauty Services Hair Replacement,3,Beauty
+Beauty Services Beauty Salon,3,Beauty
+Beauty Services Laser Hair Removal *Historic*,3,Beauty
+Beauty Services Slimming Salon *Historic*,3,Beauty
+Beauty Services Massage/Relaxation Machine *Historic*,3,Beauty
+Beauty Services Body Wrap *Historic*,3,Beauty
+Beauty Services Make-up,3,Beauty
+Beauty Services,3,Beauty
+Beauty Services Clothing/Shoes,3,Beauty
+Beauty Services Other,3,Beauty
+Beauty Services Ear Piercing,3,Beauty
+Beauty Services Hair-piece Specialist,3,Beauty
+Health and Beauty Beauty and Wellness Centre,3,Beauty
+Cosmetologist Nail Technician,9,Beauty
+Hairdresser *Historic*,9,Beauty
+Cosmetologist Hair Stylist/Hairdresser,9,Beauty
+Nail Technician *Historic* Manicures Only,9,Beauty
+Nail Technician *Historic* Manicures & Pedicures Only,9,Beauty
+Hairdressing Salon *Historic*,13,Beauty
+Cosmetologist Esthetician,13,Beauty
+Esthetician *Historic*,13,Beauty
+Hairdressing Salon *Historic* Other,13,Beauty
+Special Beauty Culturist *Historic* Facials & Esthetics Only,28,Beauty
+Special Beauty Culturist *Historic* Facials/Esthetics/Manicures/Pedicures,28,Beauty
+Special Beauty Culturist *Historic* Other,28,Beauty
+Special Beauty Culturist *Historic* Facials/Manicures/Pedicures,28,Beauty
+Special Beauty Culturist *Historic* Esthetics/Manicures/Pedicures,28,Beauty
+Special Beauty Culturist *Historic* Facials Only,28,Beauty
+Special Beauty Culturist *Historic* Esthetics Only,28,Beauty
+Special Beauty Culturist *Historic* Facials & Manicures Only,28,Beauty
+Special Beauty Culturist *Historic* Esthetics & Electrolysis Only,28,Beauty
+Ltd Service Food Establishment Beauty Salon,15,Beauty
+PLUMBING CONTRACTOR,9,Contractor
+PLUMBING & HEATING CONTRACTOR,9,Contractor
+Contractor Framing,13,Contractor
+Electrical Contractor,13,Contractor
+DRIVEWAY PAVING CONTRACTOR,13,Contractor
+Contractor Excavation,13,Contractor
+Electrical Contractor Signs,13,Contractor
+Electrical Contractor Other,13,Contractor
+Contractor,13,Contractor
+Electrical Contractor Alterations & Repairs,13,Contractor
+HEATING CONTRACTOR,13,Contractor
+Contractor Other,13,Contractor
+Contractor Alterations & Repairs,13,Contractor
+Electrical Contractor Installation,13,Contractor
+DRAIN LAYER,19,Contractor
+DRAIN CONTRACTOR,19,Contractor
+Contractor - Special Trades Residential Building,20,Contractor
+Contractor - Special Trades Refrigeration,20,Contractor
+Contractor - Special Trades Masonry,20,Contractor
+Contractor - Special Trades Stucco,20,Contractor
+Contractor - Special Trades Demolition/Excavation,20,Contractor
+Contractor - Special Trades Irrigation,20,Contractor
+Contractor - Special Trades Signs,20,Contractor
+Contractor - Special Trades,20,Contractor
+Contractor - Special Trades Installation,20,Contractor
+Contractor - Special Trades Tiler,20,Contractor
+Contractor - Special Trades Flooring,20,Contractor
+Contractor - Special Trades Other,20,Contractor
+Contractor - Special Trades Air Conditioning,20,Contractor
+Contractor - Special Trades Glazier,20,Contractor
+Contractor - Special Trades Building,20,Contractor
+Contractor - Special Trades Insulation,20,Contractor
+Contractor Masonry,26,Contractor
+Contractor Demolition,26,Contractor
+Office Administration,26,Contractors
+Venue Arena,5,Convention Centre
+Venue Stadium,5,Convention Centre
+Venue Concert Hall,5,Convention Centre
+Venue Theatre,5,Convention Centre
+Venue Performance Stage,5,Convention Centre
+Venue Other,5,Convention Centre
+Assembly Hall,9,Convention Centre
+Dance Hall,13,Convention Centre
+Secondhand Dealer Electronics,9,Dealer
+Secondhand Dealer,9,Dealer
+Wholesale Dealer Hardware/Garden Supplies,9,Dealer
+Junk Dealer,9,Dealer
+Machinery Dealer,9,Dealer
+Real Estate Dealer,9,Dealer
+AUCTIONEER,9,Dealer
+PAWN SHOP,13,Dealer
+SECOND HAND DEALER,13,Dealer
+SECOND HAND SALVAGE SHOP,13,Dealer
+COLLECTOR OF SECOND HAND GOODS,13,Dealer
+Retail Dealer - Market Outlet > 50 000 sq ft,13,Dealer
+Retail Dealer - Market Outlet > 50000 sq ft,13,Dealer
+Retail Dealer Administration,18,Dealer
+Retail Dealer Furnishings,18,Dealer
+Retail Dealer Other,18,Dealer
+Retail Dealer Electronics,18,Dealer
+Retail Dealer Pharmacy,18,Dealer
+Retail Dealer,18,Dealer
+Retail Dealer Kiosk - Temporary,18,Dealer
+Secondhand Dealer Class 6 (Retail),18,Dealer
+Secondhand Dealer Class 4 (Retail),18,Dealer
+Retail Dealer - Grocery,18,Dealer
+Secondhand Dealer Class 2 (Retail),18,Dealer
+Retail Dealer Flowers,18,Dealer
+Retail Dealer Class 1,18,Dealer
+Retail Dealer Confections,18,Dealer
+Retail Dealer Antique Dealer,18,Dealer
+Retail Dealer - Grocery Other,18,Dealer
+Secondhand Dealer Class 5 (Retail),18,Dealer
+Retail Dealer Duplicating,18,Dealer
+SECOND HAND SHOP,13,Dealer
+SMOKE SHOP,13,Dealer
+Secondhand Dealer Class 3,15,Dealer
+Secondhand Dealer Class 1,15,Dealer
+Educational Tutor,2,Education
+Educational Technical Writer,2,Education
+Educational Student Recruiting,2,Education
+Educational Student Placement,2,Education
+Educational Career Guidance,2,Education
+Educational Evaluation Service,2,Education
+Educational Other,2,Education
+Educational Teacher Recruiting,2,Education
+Educational Training Facilities,2,Education
+Educational Translation *Historic*,2,Education
+Educational Interpreter/Translator,2,Education
+Educational Films,2,Education
+Laboratory Administration,9,Education
+Laboratory Other,9,Education
+Electrolysis *Historic*,13,Education
+DRIVING INSTRUCTOR (V),13,Education
+School (Business & Trade) Business School,26,Education
+School (Private) Business School,26,Education
+School (Business & Trade),26,Education
+School (Business & Trade) Trade School,26,Education
+School (Private),26,Education
+Instruction,27,Education
+Instruction Other,27,Education
+Instruction Craft Instruction,29,Education
+Instruction Acting/Drama Instruction,29,Education
+Instruction Tennis Instruction,29,Education
+Instruction Writing Instruction,29,Education
+Instruction Hockey Instruction,29,Education
+Instruction Riding Instruction,29,Education
+Instruction Computer Instruction,29,Education
+Instruction Drama Instruction *Historic*,29,Education
+Instruction Art Instruction,29,Education
+Instruction ESL Instruction - 18 and Over,29,Education
+Instruction Cycling Instruction,29,Education
+Instruction Fitness Instruction,29,Education
+Instruction Business Instruction,29,Education
+Instruction Dance Academy,29,Education
+Instruction Gymnastics Instruction,29,Education
+Instruction Windsurfing Instruction,29,Education
+Instruction Diving Instruction,29,Education
+ESL Instruction ESL Instruction - Under 18,29,Education
+Instruction Martial Arts Instruction,29,Education
+Instruction Music Teacher,29,Education
+Instruction Soccer Instruction,29,Education
+Instruction Language Instruction,29,Education
+Instruction Boating Instruction,29,Education
+Instruction Dance Instruction,29,Education
+Instruction ESL Instruction - Under 18,29,Education
+ESL Instruction ESL Instruction - 18 and Over,29,Education
+Laboratory,9,Education
+Exhibitions/Shows/Concerts Automobile/Motorcycle Racing,26,Entertainment
+Scavenging,9,Entertainment
+Entertainment Services Curling Rink,9,Entertainment
+Entertainment Services Song Writer,9,Entertainment
+Entertainment Services Children's Entertainment,9,Entertainment
+Club,9,Entertainment
+Scavenging Other,9,Entertainment
+Entertainment Services Face Painting,9,Entertainment
+Entertainment Services Handwriting Analyst,9,Entertainment
+Entertainment Services Laser Tag,9,Entertainment
+Entertainment Services Producer,9,Entertainment
+2010 Winter Games *Historic* Temporary Accommodation,9,Entertainment
+Entertainment Services Press/Media/Reporter,9,Entertainment
+Entertainment Services Event Coordinator,9,Entertainment
+Entertainment Services Radio Station,9,Entertainment
+Entertainment Services Composer,9,Entertainment
+Entertainment Services 1-900 Service,9,Entertainment
+Horse Racing,9,Entertainment
+Entertainment Services Hypnotist,9,Entertainment
+Entertainment Services Recording/Duplication,9,Entertainment
+Entertainment Services Cartoon/Animation,9,Entertainment
+Entertainment Services Aquarium,9,Entertainment
+Office Tourist Service,9,Entertainment
+ADULT ENTERTAINMENT CLUB,9,Entertainment
+Late Night Dance Event 750 to 2000 persons,13,Entertainment
+Electrical-Temporary (Filming) Video Production,13,Entertainment
+Cabaret *Historic*,13,Entertainment
+Bowling Alley,13,Entertainment
+Late Night Dance Event Concert: 500-1000 people,13,Entertainment
+Late Night Dance Event 350 to 750 persons,13,Entertainment
+Production Company TV Production,13,Entertainment
+Production Company Other,13,Entertainment
+CIRCUS,13,Entertainment
+Exotic Dancers,13,Entertainment
+Entertainment Services Dance/Event Promoter,13,Entertainment
+Late Night Dance Event 2000 or more persons,13,Entertainment
+CARNIVAL,13,Entertainment
+Adult Entertainment Store,13,Entertainment
+Family Sports & Entertain Ctr,13,Entertainment
+Exhibitions/Shows/Concerts Circus/Rodeo,26,Entertainment
+Exhibitions/Shows/Concerts Farmers' Market,26,Entertainment
+Exhibitions/Shows/Concerts Ferris Wheel/Merry-Go-Round *Historic*,26,Entertainment
+Exhibitions/Shows/Concerts Concert: 1000-2000 people,26,Entertainment
+Lounge 'A' *Historic*,26,Entertainment
+Exhibitions/Shows/Concerts Show/Contest,26,Entertainment
+Lounge 'A' *Historic* Social Club/Recreation,26,Entertainment
+Club Lounge *Historic*,26,Entertainment
+Stadium/Concert Hall *Historic*,26,Entertainment
+Exhibitions/Shows/Concerts Concert: 500-1000 people,26,Entertainment
+Exhibitions/Shows/Concerts Concert: 2000+ people,26,Entertainment
+Exhibitions/Shows/Concerts Concert: 500 people,26,Entertainment
+Exhibitions/Shows/Concerts Other,26,Entertainment
+BILLIARD HALL,9,Entertainment
+Entertainment Services TV Station,9,Entertainment
+Entertainment Services Writer/Editor,9,Entertainment
+Entertainment Services Football Handicaps *Historic*,9,Entertainment
+Amusement Park,9,Entertainment
+Entertainment Services Actor/Stunt Person,9,Entertainment
+Entertainment Services Disc Jockey,9,Entertainment
+Bingo Hall,9,Entertainment
+Electrical-Temporary (Filming) Film Production,13,Entertainment
+Late Night Dance Event Concert: 2000+ people,13,Entertainment
+Production Company Film Production,13,Entertainment
+Trailer Court,13,Entertainment
+Christmas Tree Lot,13,Entertainment
+PLACE OF AMUSEMENT,13,Entertainment
+Late Night Dance Event Less than 350 persons,13,Entertainment
+Casino,13,Entertainment
+Piano Tuner,13,Entertainment
+Casino Class 2 - Casino,15,Entertainment
+ENTERTAINMENT ESTABLISHMENT/NIGHTCLUB,15,Entertainment
+Casino Class 1 - Casino,15,Entertainment
+Financial Institution Credit Union,9,Financial
+Financial Services Trust Company,9,Financial
+Financial Services Bankruptcy,9,Financial
+Financial Services Merchant Bank Loan,9,Financial
+Money Services Money Sending Service,9,Financial
+Financial Services Bank,9,Financial
+Financial Services Bookkeeping Service,9,Financial
+Financial Services Financial Executor,9,Financial
+Financial Services Mortgage Company,9,Financial
+Financial Services Money Sending Service,9,Financial
+Financial Services GST Refund Service,9,Financial
+Cheque Cashing *Historic*,9,Financial
+Money Services Cheque Cashing,9,Financial
+Financial Institution Bank,9,Financial
+Financial Institution Trust Company,9,Financial
+Financial Services Tax Service,9,Financial
+Financial Services Financial Planner,9,Financial
+Financial Services Accountant/Auditor,9,Financial
+Financial Services Currency Exchange,9,Financial
+Financial Services Credit Union,9,Financial
+Financial Services Stock Exchange,99,Financial
+Money Services Currency Exchange,9,Financial
+Financial Services Money Lending Service,9,Financial
+Financial Services Real Estate Development/Investment,9,Financial
+Financial Services Bank Machine,9,Financial
+Financial Services Credit Card Service,9,Financial
+Financial Services Collection Agent,9,Financial
+Financial Services Finance Agent,9,Financial
+Financial Services Other,9,Financial
+Financial Services Professional Fund Raiser,9,Financial
+Money Services Money Lending Service,9,Financial
+Financial Institution Money Sending Service,9,Financial
+Financial Services Investment Company,9,Financial
+Financial Services Solvency Service,9,Financial
+Moving/Transfer Service Courier/Messenger,13,FInancial
+Moving/Transfer Service,13,Financial
+Moving/Transfer Service Delivery,13,Financial
+TEMPORARY LEASE FIREWORKS VENDOR,4,Fireworks
+TEMPORARY FIREWORKS VENDOR (OVER 25 KG),4,Fireworks
+TEMPORARY FIREWORKS VENDOR (UNDER 25 KG),4,Fireworks
+TEMPORARY MOBILE FIREWORKS VENDOR,4,Fireworks
+Office Mobile Food Vendor *Historic*,4,Fireworks
+Office Secretarial Services,4,Fireworks
+Office Street Vendor,4,Fireworks
+PERMANENT FIREWORKS VENDOR,4,Fireworks
+Caterer Other,13,Food
+BOULEVARD CAFE,13,Food
+Agriculture Urban Farm Class B,13,Food
+Caterer Catering Truck,13,Food
+Food Processing,23,Food
+Peddler - Food,23,Food
+Manufacturer - Food,23,Food
+CNIB Concession - Food,23,Food
+Wholesale Dealer - Food Vitamins/Health Food,23,Food
+Wholesale Dealer - Food Other,23,Food
+Wholesale Dealer - Food Produce,23,Food
+Manufacturer - Food Other,23,Food
+Wholesale Dealer - Food,23,Food
+Wholesale Dealer - Food Butcher/Seafood,23,Food
+Dining Lounge *Historic*,26,Food
+Dining Lounge/Room *Historic*,26,Food
+Hotel,26,Food
+Restaurant Class 1 No Liquor Service,15,Food
+Ltd Service Food Establishment,15,Food
+Ltd Service Food Establishment No Liquor Service,15,Food
+Restaurant Class 1 & Karaoke *Historic*,15,Food
+Ltd Service Food Establishment Produce,15,Food
+Ltd Service Food Establishment Other,15,Food
+Ltd Service Food Establishment Convenience Store,15,Food
+EATING ESTABLISHMENT,15,Food
+Restaurant Class 2 No Liquor Service,15,Food
+Ltd Service Food Establishment Flowers,15,Food
+Temp Liquor Licence Amendment De-Licensing,15,Food
+Ltd Service Food Establishment Concession Stand,15,Food
+Ltd Service Food Establishment Clothing/Shoes,15,Food
+Restaurant Class 2,15,Food
+Restaurant Class 1,15,Food
+Herbalist *Historic*,13,Health
+Specialized Services Retail - Medical Marijuana-related Advocacy,13,Health
+Health Services Physician/Surgeon,16,Health
+Health and Beauty Health Enhancement Centre,16,Health
+Health Services Speech Pathologist,16,Health
+Health Services Art Therapist,16,Health
+Health and Beauty,16,Health
+Health Services Herbalist,16,Health
+Health Services Nursing Service,16,Health
+Health Services Occupational Therapy,16,Health
+Health Services Midwife,16,Health
+Health Services Health Care Facility,16,Health
+Entertainment Services,16,Health
+Health Services Naturopathic Doctor,16,Health
+Health Services Doctor of TCM,16,Health
+Health Services Counselling,16,Health
+Health Services Enema Service/Colonic Irrigation,16,Health
+Health Services Acupuncturist,16,Health
+Health Services Artificial Eye Service *Historic*,16,Health
+Health Services Optometrist/Optician,16,Health
+Health Services Hypnotist,16,Health
+Health Services Home Care,16,Health
+Health Services Fitness,16,Health
+Health Services,16,Health
+Health Services Respiratory Therapy,16,Health
+Entertainment Services Other,16,Health
+Health Services Social Worker,16,Health
+Health Services Dental Reception,16,Health
+Health Services Denturist,16,Health
+Health Services Laser Therapy,16,Health
+Health Services Ocularist/Artificial Eye Service,16,Health
+Health Services First Aid Service,16,Health
+Health Services TCM Practitioner,16,Health
+Health and Beauty Barber Shop,16,Health
+Health Services Sample Collection,16,Health
+Health Services Psychiatrist,16,Health
+Health Services Horticultural Therapy,16,Health
+Health Services Dance Therapist,16,Health
+Health Services Dentist,16,Health
+Health Services Oculist/Eye Surgeon,16,Health
+Health Services Podiatrist,16,Health
+Health Services Psychologist,16,Health
+Health Services Chiropractor/Chiropodist,16,Health
+Health Services Other,16,Health
+Health Services Wellness Testing,16,Health
+Health Services Acupressure *Historic*,16,Health
+Health Services Audiologist,16,Health
+Health Services Pharmaceutical Evaluation,16,Health
+Herbalist *Historic* Vitamins/Health Food,16,Health
+Health Services Post Op Care *Historic*,16,Health
+Health Services Recreational Therapy,16,Health
+Private Hospital,26,Health
+INSULATION INSTALLER,9,Household
+Laundry (w/equipment),9,Household
+Pest Control/Exterminator,9,Household
+Painter,9,Household
+Office Property Management,9,Household
+Window Cleaner,9,Household
+Janitorial Services Other,9,Household
+Gas Station - Propane *Historic*,10,Household
+Plumber,10,Household
+Plumber & Gas Contractor Other,10,Household
+Sprinkler Contractor,10,Household
+Plumber Sprinkler & Gas Contractor,10,Household
+Gas Contractor,10,Household
+Sprinkler & Gas Contractor,10,Household
+MASTER PLUMBER,10,Household
+Gas Station - Marine *Historic*,10,Household
+Plumber & Gas Contractor,10,Household
+Pawnbroker,10,Household
+Plumber & Sprinkler Contractor,10,Household
+Conventional Gas Station *Historic*,10,Household
+Plumber Sprinkler & Gas Contractor,10,Household
+CHIMNEY REPAIRMAN,13,Household
+Carpet/Upholstery Cleaner,13,Household
+Landscape Gardener,13,Household
+Electrical-Security Alarm Installation Other,13,Household
+Repair/ Service/Maintenance Other,13,Household
+MASTER HEATING INSTALLER,13,Household
+LAUNDRY,13,Household
+Electrical-Security Alarm Installation,13,Household
+Chimney Sweep,13,Household
+Laundry-Coin Operated Services,13,Household
+Roofer Residential Building,25,Household
+Contractor Building,25,Household
+BUILDING CLEANER,25,Household
+BUILDING RENOVATOR,25,Household
+Roofer Commercial Building,25,Household
+Homecraft,26,Household
+Homecraft Other,26,Household
+Dry Cleaner,13,Household
+PRECIOUS METAL SHOP,13,Jewellery
+Jeweller Internet,22,Jewellery
+Jeweller Other,22,Jewellery
+Jeweller,22,Jewellery
+U-Brew/U-Vin,9,Liquor
+Marine Pub *Historic*,13,Liquor
+Neighbourhood Pub *Historic*,13,Liquor
+Specialty Wine Store *Historic*,13,Liquor
+Liquor Retail Store Beer Only,15,Liquor
+Temp Liquor Licence Amendment,15,Liquor
+Temp Liquor Licence Amendment Area Extension,15,Liquor
+Liquor Establishment Standard Class 7 (Private Club),15,Liquor
+Temp Liquor Licence Amendment Capacity Increase,15,Liquor
+Liquor License Application Stadium/ Concert Hall,15,Liquor
+Liquor Retail Store Brewery,15,Liquor
+Liquor Establishment Extended Class 6 951 and up Seats,15,Liquor
+Liquor Retail Store,15,Liquor
+Liquor License Application Cabaret,15,Liquor
+Liquor Establishment Standard Class 2 66-150 Seats,15,Liquor
+Liquor License Application Public House,15,Liquor
+Liquor License Application Restaurant - Class 2,15,Liquor
+Liquor License Application Dining Room/Lounge,15,Liquor
+Liquor Establishment Extended Class 7 (Private Club),15,Liquor
+Liquor License Application Marine Public House,15,Liquor
+Temp Liquor Licence Amendment Class 3 151-300 Seats,15,Liquor
+Liquor License Application Liquor Primary,15,Liquor
+Liquor License Application Food Primary,15,Liquor
+Liquor Establishment Standard Class 1 0-65 Seats,15,Liquor
+Liquor Establishment Standard Class 4 301-500 Seats,15,Liquor
+Liquor License Application Lounge,15,Liquor
+Temp Liquor Licence Amendment Trial Period,15,Liquor
+Liquor License Application Motor Vessel,15,Liquor
+Restaurant Class 2 With Liquor Service,15,Liquor
+Liquor Establishment Extended Class 3 151-300 Seats,15,Liquor
+Liquor License Application Beer & Wine,15,Liquor
+Liquor Delivery Services,15,Liquor
+Restaurant Class 1 With Liquor Service,15,Liquor
+Liquor Retail Store Specialty Wine,15,Liquor
+Liquor Delivery Services Other,15,Liquor
+Liquor Retail Store Wine,15,Liquor
+Liquor Establishment Extended Class 1 0-65 Seats,15,Liquor
+Liquor Establishment Standard Class 3 151-300 Seats,15,Liquor
+Provincial Liquor Review *Historic* Seating Increase,15,Liquor
+Liquor Establishment Standard Class 5 501-950 Seats,15,Liquor
+Liquor Retail Store Beer & Wine,15,Liquor
+Liquor Establishment Extended Class 2 66-150 Seats,15,Liquor
+Liquor Establishment Extended Class 5 501-950 Seats,15,Liquor
+Liquor Retail Store Full Service,15,Liquor
+Temp Liquor Licence Amendment Chg of Hours,15,Liquor
+Liquor Establishment Extended Class 4 301-500 Seats,15,Liquor
+Liquor License Application Neighbourhood Public House,15,Liquor
+Temp Liquor Licence Amendment Patron Participation,15,Liquor
+Specialty Wine Store *Historic* VQA Wine,13,Liquor
+Seamstress/Tailor,9,Manufacturing
+Manufacturer Garments,12,Manufacturing
+Manufacturer Signs,12,Manufacturing
+Manufacturer Metal Products,12,Manufacturing
+Manufacturer Plastic Products,12,Manufacturing
+Office Manufacturer's Agent,12,Manufacturing
+Manufacturer Other,12,Manufacturing
+Manufacturer Wood Products,12,Manufacturing
+Manufacturer Furniture,12,Manufacturing
+Manufacturer Publisher,12,Manufacturing
+Manufacturer Design Company,12,Manufacturing
+Manufacturer Glass Products,12,Manufacturing
+Manufacturer Paper Products,12,Manufacturing
+Manufacturer Electronics,12,Manufacturing
+Manufacturer,12,Manufacturing
+Product Assembly,9,Manufacturing
+DRIVING SCHOOL OPERATOR (V),11,Operator
+Warehouse Operator - Food Broker,11,Operator
+Equipment Operator,11,Operator
+Warehouse Operator,11,Operator
+Marina Operator,11,Operator
+DRIVING SCHOOL OPERATOR (B),11,Operator
+CLOTHING DROP BOX OPERATOR,11,Operator
+Warehouse Operator - Food,11,Operator
+Office Tour Operator/Guide,11,Operator
+Warehouse Operator Clothing/Shoes,11,Operator
+Live-aboards,9,Other
+Telecommunications,9,Other
+Split-island Station *Historic*,9,Other
+Telecommunications Long Distance,9,Other
+Self-serve Station *Historic*,9,Other
+Telecommunications Service,9,Other
+Telecommunications Marketing,9,Other
+Office Insurance Agent,9,Other
+Telecommunications Other,9,Other
+Card Lock Station *Historic*,9,Other
+Livery & Feed Stables,9,Other
+Homecraft Candlemaking *Historic*,9,Other
+Office Other,13,Other
+HAWKER/PEDLAR ON FOOT,9,Other
+HAWKER/PEDLAR WITH PUSH CART,9,Other
+Telecommunications Communication,9,Other
+Caterer,13,Other
+HOLISTIC CENTRE,13,Other
+TEMPORARY SIGN - PORTABLE,13,Other
+Public Market - Daily,13,Other
+Community Association Other,13,Other
+Sign Permit *Historic*,13,Other
+Office Mortgage Company,13,Other
+Community Association Administration,13,Other
+Bed and Breakfast,13,Other
+TEMPORARY SIGN - A-FRAME,13,Other
+TEMPORARY SIGN - GROUND-MOUNTED,13,Other
+TEMPORARY SIGN - MOBILE,13,Other
+Psychic/Fortune Teller,9,Personal Service
+Psychic/Fortune Teller Other,9,Personal Service
+Office Valet Parking Service,13,Personal Service
+Office Public Bike Share,13,Personal Service
+Security Services Closed Circuit TV Installer,13,Personal Service
+Body Rub Parlour *Historic*,13,Personal Service
+Tattoo Parlour Body Piercing *Historic*,13,Personal Service
+Photo Services Microfilm,13,Personal Service
+Tattoo Parlour Tattoo Services *Historic*,13,Personal Service
+Steam Bath,13,Personal Service
+Security Services Electronic Locking Device Installer,13,Personal Service
+Security Services Other,13,Personal Service
+Tanning Salon,13,Personal Service
+Personal Services Body Guard/Protection,14,Personal Service
+Personal Services Plant/Tree Removal,14,Personal Service
+Entertainment Centre,14,Personal Service
+Personal Services Fire Extinguisher Inspection,14,Personal Service
+Fitness Centre,14,Personal Service
+Personal Services Decorating Service,14,Personal Service
+Personal Services Pen-pal Service,14,Personal Service
+Personal Services Recruiting Service,14,Personal Service
+Personal Services Art Restoration,14,Personal Service
+Personal Services Cook/Chef,14,Personal Service
+Personal Services Cleaning Service,14,Personal Service
+Personal Services Packing/Packaging,14,Personal Service
+Personal Services Info/Research Service,14,Personal Service
+Fitness Centre Fitness Centre - Class 1,14,Personal Service
+Fitness Centre Fitness Centre - Class 2,14,Personal Service
+Personal Services Candlemaking *Historic*,14,Personal Service
+Personal Services Accommodation Finding,14,Personal Service
+Fitness Centre Personal Training Centre,14,Personal Service
+Personal Services Tool Filer/Sharpener,14,Personal Service
+Personal Services Bicycle Registration,14,Personal Service
+PERSONAL SERVICES SETTINGS,14,Personal Service
+Personal Services Monumental Works,14,Personal Service
+Personal Services Fabric Cutting/Protection,14,Personal Service
+Personal Services Pool Maintenance,14,Personal Service
+Personal Services Other,14,Personal Service
+Personal Services Mailing Service,14,Personal Service
+Personal Services Shoe Shine,14,Personal Service
+Personal Services Furniture Refinishing,14,Personal Service
+Personal Care Home,14,Personal Service
+Personal Services Process Server,14,Personal Service
+Personal Services Shopping Service,14,Personal Service
+Personal Services Errand Service,14,Personal Service
+Personal Services Interpreter/Translator,14,Personal Service
+Fitness Centre Fitness Centre,14,Personal Service
+Personal Services Project Management,14,Personal Service
+Personal Services Window Tinting,14,Personal Service
+Personal Services Key Cutting/Engraving,14,Personal Service
+Personal Services Inspection/Testing,14,Personal Service
+Personal Services Dying Service *Historic*,14,Personal Service
+Personal Services Plant/Tree Maintenance,14,Personal Service
+Fitness Centre Other,14,Personal Service
+Personal Services Freight Forwarding,14,Personal Service
+Social Escort Services,26,Personal Service
+Employment Agency Home Care,26,Personal Service
+Social Escort,26,Personal Service
+Janitorial Services,9,Personal Service
+Therapeutic Touch Technique Other,9,Personal Service
+Travel Agent,9,Personal Service
+Physical Therapist,9,Personal Service
+Boot & Shoe Repairs,9,Personal Service
+Therapeutic Touch Technique,9,Personal Service
+Massage Therapist,9,Personal Service
+Seamstress/Tailor Clothing/Shoes,9,Personal Service
+Tattoo Parlour Body Branding/Thermal Imaging *Historic*,13,Personal Service
+Acupuncturist *Historic*,13,Personal Service
+Security Services Private Investigator,13,Personal Service
+Dating Services,13,Personal Service
+BODY RUB PARLOUR,13,Personal Service
+Tattoo Parlour,13,Personal Service
+Wedding Chapel,13,Personal Service
+BOULEVARD MARKETING,13,Service Industry
+Recycling Depot Scrap Metal Depot,24,Recycling
+Recycling Depot Other,24,Recycling
+Recycling Depot,24,Recycling
+Laundry Depot,24,Service Industry
+Recycling Depot Paper Depot,24,Recycling
+Bottle Depot *Historic*,24,Recycling
+Recycling Depot Bottle Depot,24,Recycling
+Secondary Suite - Permanent Laneway Rental,26,Rental
+Postal Rental Agency Other,26,Rental
+One-Family Dwelling Laneway Rental,26,Rental
+Rentals Computer Time Rental,26,Rental
+Rentals Party Supplies Rental,26,Rental
+Rentals Adult Video Rental,26,Rental
+Secondary Suite - Permanent Primary (1 Rental),26,Rental
+Secondary Suite - Permanent Primary (1 Rental) and Laneway,26,Rental
+Rentals Flowers,26,Rental
+Secondary Suite - Permanent Primary (2 Rentals),26,Rental
+Rentals Equipment Rental,26,Rental
+One-Family Dwelling Primary (1 Rental),26,Rental
+Secondary Suite - Permanent Primary (2 Rentals) and Laneway,26,Rental
+Postal Rental Agency,26,Rental
+Rentals Other,26,Rental
+One-Family Dwelling Primary (1 Rental) and Laneway,26,Rental
+Rentals,26,Rental
+Postal Rental Agency Duplicating,26,Rental
+Rentals Video Rental,26,Rental
+Retail Dealer - Food Gifts/Novelties,7,Retail
+Retail Dealer Video Rental,7,Retail
+Retail Dealer - Food Convenience Store,7,Retail
+Manufacturer with Anc. Retail,7,Retail
+Retail Dealer - Food Butcher/Seafood,7,Retail
+Retail Dealer Equipment Rental,7,Retail
+Retail Dealer Wood Products,7,Retail
+Retail Dealer - Food Books/Stationary,7,Retail
+Retail Dealer - Food Computer Time Rental,7,Retail
+Wholesale Dealer - Food with Anc. Retail Other,7,Retail
+Retail with Anc. Secondhand *Historic*,7,Retail
+Security Services Retail Alarms,7,Retail
+Manufacturer - Food with Anc. Retail,7,Retail
+Wholesale Dealer - Food with Anc. Retail,7,Retail
+Retail Dealer - Food Department Store,7,Retail
+Retail Dealer Interior Design/Decorator,7,Retail
+Manufacturer with Anc. Retail Metal Products,7,Retail
+Specialized Services Retail - Compassion Club,7,Retail
+Retail Dealer Currency Exchange,7,Retail
+Retail Dealer Residential Building,7,Retail
+RETAIL STORE (FOOD),7,Retail
+Retail Dealer Department Store,7,Retail
+Retail Dealer Art Gallery,7,Retail
+Retail Dealer Sports & Leisure Equipment,7,Retail
+Retail Dealer Books/Stationary,7,Retail
+Wholesale Dealer w/ Anc. Retail,7,Retail
+Retail Dealer Kiosk - Permanent,7,Retail
+Retail Dealer - Food Other,7,Retail
+Retail Dealer - Food Confections,7,Retail
+Manufacturer with Anc. Retail Other,7,Retail
+Manufacturer - Food with Anc. Retail Confections,7,Retail
+Retail Dealer Clothing/Shoes,7,Retail
+Retail Dealer Hardware/Garden Supplies,7,Retail
+Retail Dealer Alterations & Repairs,7,Retail
+Retail Dealer Adult Video Rental,7,Retail
+Retail Dealer - Food Produce,7,Retail
+Retail Dealer - Food Video Rental,7,Retail
+Retail Dealer - Food Neighbourhood,7,Retail
+Retail Dealer - Food,7,Retail
+Retail Dealer Gifts/Novelties,7,Retail
+Retail Dealer - Food Small Pharmacy,7,Retail
+Retail Dealer - Food Vitamins/Health Food,7,Retail
+Retail Dealer Shipping Agent,7,Retail
+Retail Dealer - Food Bakery,7,Retail
+Manufacturer with Anc. Retail Wood Products,7,Retail
+Retail Dealer - Food Flowers,7,Retail
+Retail Dealer - Food Pharmacy,7,Retail
+Office Desk-top Publishing,9,Service
+Office Consultant,9,Service
+Office Word Processing,9,Service
+Office Mining Exploration,9,Service
+TEMPORARY SIGN PROVIDER,9,Service
+Office Shipping Agent,9,Service
+Referral Services,9,Service
+Moving/Transfer Service Transport,13,Service
+Public Market Operator-Annual,13,Service
+Office Insurance Company,13,Service
+Office Appraisal Service,13,Service
+Security Services,13,Service
+Photo Services Photo Lab *Historic*,13,Service
+Moving/Transfer Service Goods,13,Service
+Security Services Security Patrol,13,Service
+Sheet Metal Works,13,Service
+Printing Services Photocopy,13,Service
+Office Drafting Service,13,Service
+Security Services Alarm Monitoring,13,Service
+TORONTO TAXICAB OWNER,9,Service
+Office Interpreter/Translator,9,Service
+Motel,9,Service
+Club Manager *Historic*,9,Service
+TAXICAB OWNER,9,Service
+PEDICAB OWNER,9,Service
+Office Advertising Agent,9,Service
+Office Answering/Paging Service,13,Service
+Security Services Security Consultants,13,Service
+Printing Services Typesetting,13,Service
+Power/ Pressure Washing,13,Service
+Moving/Transfer Service Other,13,Service
+Printing Services Other,13,Service
+Office Architect,13,Service
+Office Publisher,13,Service
+Sheet Metal Works Other,13,Service
+Dairy Delivery Services,13,Service
+Photo Services Photographic Service *Historic*,13,Service
+TEMPORARY SIGN - NEW DEVELOPMENT,13,Service
+Repair/ Service/Maintenance Electronics,13,Service
+COMMERCIAL PARKING LOT,13,Service
+Printing Services Pre-press,13,Service
+Backyard Pay Parking,13,Service
+Office Pre-press,13,Service
+Office Alarm Monitoring,13,Service
+Blueprint Printing *Historic*,13,Service
+Photo Services Photo Editing,13,Service
+Printing Services Duplicating,13,Service
+Photo Services Photo Finishing,13,Service
+Printing Services Laminating,13,Service
+Photo Services Photo Identification Service,13,Service
+Community Association Event Coordinator,13,Service
+Office Sign Writer,13,Service
+Printing Services Blueprint,13,Service
+Office Development Company,13,Service
+Repair/ Service/Maintenance,13,Service
+BILL DISTRIBUTOR,13,Service
+Photo Services Other,13,Service
+Photo Services Photographic Assembly *Historic*,13,Service
+Office Management Company,13,Service
+Photo Services,13,Service
+Office Project Management,13,Service
+Office Engineer,13,Service
+Office Surveyor,13,Service
+Office Barrister & Solicitor,13,Service
+Printing Services Silk Screen,13,Service
+Computer Services Other,26,Service
+Computer Services Software,26,Service
+Computer Services Design Company,26,Service
+Computer Services Internet,26,Service
+Computer Services Programming,26,Service
+Computer Services Word Processing,26,Service
+Employment Agency Other,26,Service
+Office Software,26,Service
+Office Translation *Historic*,26,Service
+Business Services,26,Service
+Locksmith,26,Service
+PRIVATE PARKING ENFORCEMENT AGENCY,26,Service
+ADVERTISING,26,Service
+Computer Services Database Management,26,Service
+Secondary Suite - Permanent Other,26,Service
+Computer Services Information,26,Service
+Computer Services Analysis,26,Service
+Computer Services Integration,26,Service
+Computer Services Network,26,Service
+Hotel Lounge *Historic*,26,Service
+Secondary Suite - Permanent,26,Service
+Computer Services Graphics,26,Service
+Computer Services,26,Service
+Lounge 'A' *Historic* Hotel,26,Service
+Secondary Suite - Phase Out *Historic*,26,Service
+Computer Services Design,26,Service
+Computer Services Graphic Artist,26,Service
+Computer Services Animation,26,Service
+Computer Services Data Processing,26,Service
+Photographer,9,Service
+Funeral Services,9,Service
+Funeral Services Undertaker,9,Service
+Soliciting For Charity,9,Service
+CLOTHING DROP BOX LOCATION PERMIT,13,Service
+Office Insurance Adjuster,13,Service
+Office Broker,13,Service
+Office Mail Order,13,Service
+Printing Services,13,Service
+Marine Services Other,13,Service
+Security Services Security Guard,13,Service
+Community Association,13,Service
+Office Design Company,13,Service
+Billiard Room Keeper,13,Service
+Community Association Manager *Historic*,13,Service
+Model Agency,26,Service
+Talent Agency,26,Service
+Talent Agency Other,26,Service
+Booking Agency,26,Service
+Employment Agency,26,Service
+Theatre Adult,17,Entertainment
+THEATRE,17,Entertainment
+Theatre Live,17,Entertainment
+Theatre Other,17,Entertainment
+Theatre Neighbourhood,17,Entertainment
+Vending Machines Bank Machine,9,Vending Machine
+Vending Machines,9,Vending Machine
+Vending Machines Other,9,Vending Machine
+CURBLANE VENDING,9,Vending Machine
+Vending Machines Newspaper,9,Vending Machine
+Vending Machines Advertising Agent,9,Vending Machine
+MOBILE VENDING (FOOD TRUCK),13,Vending Machine
+MOBILE VENDING (ICE CREAM TRUCK),13,Vending Machine
+SIDEWALK VENDING,13,Vending Machine
+Wholesale Dealer Administration,8,Wholesale
+Wholesale Dealer Consultant,8,Wholesale
+Wholesale Dealer Other,8,Wholesale
+Wholesale Dealer Garments,8,Wholesale
+Wholesale Dealer Antique Dealer,8,Wholesale
+Wholesale Dealer,8,Wholesale
+Wholesale Dealer Electronics,8,Wholesale
+Wholesale Dealer Flowers,8,Wholesale
+Wholesale Dealer Furnishings,8,Wholesale
+Wholesale Dealer Gifts/Novelties,8,Wholesale
+Wholesale Dealer Clothing/Shoes,8,Wholesale
+Wholesale Dealer Sports & Leisure Equipment,9,Wholesale

@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Predictions</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="logo"><strong>Project</strong> for Big Data</a>
+					<nav id="nav">
+						<a href="index.html">Home</a>
+						<a href="elements.html">Visualizations</a>
+                        <a href="generic.html">About Us</a>
+						
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+
+
+																				<!-- Break -->
+											<div class="12u$" align="center">
+                                                <h3><strong>Predictions</strong></h3>
+                                                <h3></h3>
+												<div  class="select-wrapper" align="center">
+                                                    <div class="select-wrapper" style="width: 550px !important; min-width: 550px; max-width: 550px;">
+                                                    <!--<select name="country" id="country">-->
+														<!--<option value="">SELECT CITY</option>-->
+														<!--<option value="Tor">Toronto</option>-->
+														<!--<option value="Van">Vancouver</option>-->
+													<!--</select>-->
+                                                    <h3></h3>
+                                                    <div class="select-wrapper" style="width: 550px !important; min-width: 550px; max-width: 550px;">
+                                                    <select name="businesstype" id="businesstype">
+                                                        <option value="">SELECT BUSINESS TYPE</option>
+                                                        <option value="1">Animal Services</option>
+                                                        <option value="1">Apartment</option>
+                                                        <option value="1">Art Industry</option>
+                                                        <option value="1">Auto Industry</option>
+                                                        <option value="1">Beauty</option>
+                                                        <option value="1">Contractor</option>
+                                                        <option value="1">Convention centre</option>
+                                                        <option value="1">Dealer</option>
+                                                        <option value="1">Education</option>
+                                                        <option value="1">Entertainment</option>
+                                                        <option value="1">Financial</option>
+                                                        <option value="1">Fireworks</option>
+                                                        <option value="1">Food</option>
+                                                        <option value="1">Health</option>
+                                                        <option value="1">Household</option>
+                                                        <option value="1">Jewellery</option>
+                                                        <option value="1">Liquor</option>
+                                                        <option value="1">Manufacturing</option>
+                                                        <option value="1">Operator</option>
+                                                        <option value="1">Other</option>
+                                                        <option value="1">Personal Service</option>
+                                                        <option value="1">Recycling</option>
+                                                        <option value="1">Rental</option>
+                                                        <option value="1">Retail</option>
+                                                        <option value="1">Service industry</option>
+                                                        <option value="1">Vending Machine</option>
+                                                        </select>
+                                                </div>
+											</div>
+											
+                                            
+                                            <!-- Buttons -->
+                                            <h3></h3>
+                                            <!--<ul class="actions" align="center">-->
+                                                <!--<li><a href="#" class="button special getpred">SUBMIT</a></li>-->
+                                            <!--</ul>-->
+
+
+       <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+       <div id="chart_div" style="width: 400px; height: 200px;"></div>
+       <div style="padding-top:30px;" id="predictionresult"></div>
+
+                                            <!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+            <script type="application/javascript">
+                var businessdetails;
+                $.getJSON("businessstability.json").done(function(data){
+                    businessdetails = data;
+                });
+
+                var getbusinessresult = function(btype) {
+                    result = {};
+                    jQuery.map(businessdetails, function(obj) {
+                        if(obj.BusinessType.toLowerCase() == btype.toLowerCase()){
+                            result[obj.City] = (obj.Stability/365).toFixed(2);
+                            }
+                        });
+                    return result;
+                };
+
+                google.charts.load('current', {'packages':['gauge']});
+                //google.charts.setOnLoadCallback(drawChart);
+                function drawChart(van, tor) {
+                        var data = google.visualization.arrayToDataTable([
+                          ['Label', 'Value'],
+                          ['Vancouver', Math.round(van)],
+                          ['Toronto', Math.round(tor)]
+                        ]);
+
+                        var options = {
+                          width: 400, height: 200,
+                          redFrom: 0, redTo: 5,
+                          yellowFrom:5, yellowTo: 10,
+                          greenFrom:10, greenTo:15,
+                          min:0, max:15,
+                          minorTicks: 1
+                        };
+
+                        var chart = new google.visualization.Gauge(document.getElementById('chart_div'));
+                        chart.draw(data, options);
+                    }
+
+				$(document).ready(function(){
+
+                    $("#businesstype").change(function(){
+                        //var prov = $("#country").val();
+                        var btype = $("#businesstype option:selected").text();
+
+                        var stability = getbusinessresult(btype);
+                        $("#predictionresult").html("As per our prediction your " +
+                            "business stability in Vancouver is: "+stability["Van"]+
+                                " years and in Toronto "+stability["Tor"] +" years"
+                        )
+                        drawChart(stability["Van"], stability["Tor"])
+
+
+                    });
+				});
+			</script>
+
+	</body>
+</html>
